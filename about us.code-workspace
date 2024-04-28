@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "www.mabbly.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "about us"
+	}
+}
